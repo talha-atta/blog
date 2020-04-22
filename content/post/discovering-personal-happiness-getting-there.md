@@ -1,5 +1,5 @@
 ---
-title: "Discovering personal happiness & getting there"
+title: Discovering personal happiness & getting there
 date: 2019-10-14T18:48:26-04:00
 draft: false
 ---
