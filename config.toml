@@ -2,7 +2,7 @@ baseURL = "https://talhaatta.com/"
 title = "Talha Atta."
 theme ="basic"
 languageCode = "en-us"
-googleAnalytics = "G-BLTB7FNZ7X"
+googleAnalytics = "UA-146730400-1"
 enableEmoji = true 
 copyright = "© 2020 <a href='https://talhaatta.com'>Talha's Personal Blog</a>. Made by <a href='https://twitter.com/talha_atta6'>@talha_atta6</a>."
 description = "Talha Atta's Personal Blog."
@@ -27,12 +27,16 @@ description = "Talha Atta's Personal Blog."
   name = "blog"
   url = "post/"
 
+[[params.menu]]
+  name = "reading"
+  url = "reading/"
+
 [privacy]
   [privacy.googleAnalytics]
-    anonymizeIP = true
-    respectDoNotTrack = true
-    useSessionStorage = true
+    anonymizeIP = false
+    respectDoNotTrack = false
+    useSessionStorage = false
   [privacy.twitter]
-    enableDNT = true
+    enableDNT = false
   [privacy.youtube]
-    privacyEnhanced = true
+    privacyEnhanced = false

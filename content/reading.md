@@ -1,13 +1,13 @@
 ---
-title: "Bookshelf"
+author: "Talha Atta"
+title: "Reading"
 date: 2020-04-18T19:27:03-04:00
-draft: true
+draft: false
 ---
 
-_Work in Progress. Copied over from my last website and haven't gotten to applying markdown or updating links_
+Work in Progress.
 
----
-
+<!--
 **A lot of the people that I follow have online bookshelves, a page dedicated to all the books they've read with recommendations.**
 
 **I consume a ton of content, not just books but articles, podcasts, videos, and blogs of great people. I decided to curate the best of what I've read and what's had an impact on me so you can go check it out too:**
@@ -124,4 +124,4 @@ _Work in Progress. Copied over from my last website and haven't gotten to applyi
 - Intercom
 - MIT Tech Review
 - Futurism
-- First Round Capital
+- First Round Capital -->
