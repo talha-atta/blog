@@ -2,7 +2,7 @@
 author: "Talha Atta"
 title: "Measuring What Matters"
 date: "2020-05-14T11:36:33+08:00"
-draft: true
+draft: false
 tags:
   - Optimization
 ---
@@ -132,6 +132,5 @@ I haven't found one that I love or one that does tracking right for my needs. Cu
 **[Sleep Cycle Alarm Clock](https://www.sleepcycle.com/)**
 
 - I use this as my alarm clock because it wakes you up at the lightest part of your sleep cycle instead of a certain time. It also tracks your sleep each night.
-
 
 _This is an ongoing list that I'll be updating as I discover new applications and tools. If you have any recommendations to add or improvements to make let me know!_
