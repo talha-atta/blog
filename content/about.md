@@ -1,7 +1,11 @@
 ---
-title: "About"
-date: 2020-12-02T20:11:55-05:00
+author: "Talha Atta"
+title: "Hi, I'm Talha Atta."
+date: "2020-04-17T11:36:33+08:00"
 draft: false
+series: Life
+tags:
+  - About Me
 ---
 
-Testing shit out
+testing shit out

@@ -1,6 +1,6 @@
 baseURL = "https://talhaatta.com/"
 title = "Talha Atta."
-theme ="hugo-theme-basic"
+theme ="basic"
 languageCode = "en-us"
 googleAnalytics = "UA-146730400-1"
 enableEmoji = true 
