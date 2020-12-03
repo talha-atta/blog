@@ -1,0 +1,38 @@
+baseURL = "https://talha-atta.github.io/"
+title = "Talha Atta."
+theme ="hugo-theme-basic"
+languageCode = "en-us"
+googleAnalytics = "UA-146730400-1"
+enableEmoji = true 
+copyright = "© 2020 <a href='https://talhaatta.com'>Talha's Personal Blog</a>. Made by <a href='https://twitter.com/talha_atta6'>@talha_atta6</a>."
+description = "Talha Atta's Personal Blog."
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+  titleEmoji = ""
+  twitter = "talha_atta6"
+
+[Permalinks]
+  post = "post/:slug"
+
+[[params.menu]]
+  name = "about"
+  url = "about/"
+
+[[params.menu]]
+  name = "blog"
+  url = "post/"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.twitter]
+    enableDNT = false
+  [privacy.youtube]
+    privacyEnhanced = false
